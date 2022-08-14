@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. This App is a picture wall for avicii fans to post their beautiful memories and story with the EDM legend Avicii
+This App is a picture wall for avicii fans to post their beautiful memories and story with the EDM legend Avicii. This App is a Full Stack MERN Application, using React, Node.js, Express & MongoDB.
 
 Setup:
 
